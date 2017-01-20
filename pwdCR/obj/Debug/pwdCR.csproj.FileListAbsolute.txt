@@ -1,0 +1,9 @@
+D:\projects\pwdCR\pwdCR\bin\Debug\pwdCR.exe.config
+D:\projects\pwdCR\pwdCR\bin\Debug\pwdCR.exe
+D:\projects\pwdCR\pwdCR\bin\Debug\pwdCR.pdb
+D:\projects\pwdCR\pwdCR\obj\Debug\pwdCR.csprojResolveAssemblyReference.cache
+D:\projects\pwdCR\pwdCR\obj\Debug\pwdCR.exe
+D:\projects\pwdCR\pwdCR\obj\Debug\pwdCR.pdb
+D:\projects\pwdCR\pwdCR\bin\Debug\ClosedXML.dll
+D:\projects\pwdCR\pwdCR\bin\Debug\DocumentFormat.OpenXml.dll
+D:\projects\pwdCR\pwdCR\bin\Debug\ClosedXML.pdb
